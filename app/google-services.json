@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480445655328",
+    "project_id": "multichatkotlin",
+    "storage_bucket": "multichatkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480445655328:android:cbf1f25c4db3feb61dcf45",
+        "android_client_info": {
+          "package_name": "com.example.multichatkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480445655328-69i02qkku8hngtvpdajr9chvhr6cjpdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjHZQz3T3h4SGb0a6NJ-a2lBGJTuzm2qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480445655328-69i02qkku8hngtvpdajr9chvhr6cjpdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
